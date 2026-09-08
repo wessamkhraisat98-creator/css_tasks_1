@@ -1,0 +1,36 @@
+body
+{
+    background-color: #fff7f0;
+}
+
+.articles
+{
+    background-color: #fff;
+    margin: 1rem 0;
+    padding: 1.5rem .5rem;
+}
+
+.bordered{
+    border: 1px solid #000;
+}
+.dashed-border
+{
+    border-style: dashed;
+}
+.red-border
+{
+    border-color: red;
+}
+
+.articles p 
+{
+    margin-top: 1rem;
+}
+
+.purble-text
+{
+    color: purple;
+}
+.red-bg{
+    background-color: red;
+}
